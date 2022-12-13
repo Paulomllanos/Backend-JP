@@ -22,4 +22,4 @@ app.use('/api', router)
 
 const port = 5000
 
-app.listen(port, '0.0.0.0',() => console.log('Listening on port 4000'))
+app.listen(port, () => console.log('Listening on port 5000'))
